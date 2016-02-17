@@ -1,0 +1,28 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'><head><meta http-equiv="Content-type" content="text/html;charset=utf-8" /><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>My Worksheet</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table id='tblExport' style='border: 1px solid black;'>
+									<thead>
+										<tr>
+										<th>S.NO</th>
+										<th>NAME</th>
+										<th>USN</th>
+										<th>BOOKLET NO</th>
+										<th>SIGNATURE</th>
+										</tr>
+									</thead>
+							
+															
+									<tbody>
+																					<tr>
+												<td>1</td>
+												<td>ABHIMANYU</td>
+												<td>1RV11IS004</td>
+												<td></td><td></td>
+												</tr>
+																					<tr>
+												<td>2</td>
+												<td>Meghal</td>
+												<td>1RV11IS051</td>
+												<td></td><td></td>
+												</tr>
+																		
+									</tbody>
+								</table></body></html>
